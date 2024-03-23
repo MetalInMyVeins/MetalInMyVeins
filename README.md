@@ -1,7 +1,7 @@
 - Hello! I’m @MetalInMyVeins
 - I write code as a hobby.
 - I know C++, C, Python, Bash, CMake, R etc.
-- My development platform is linux.
+- I am a linux nerd.
 - I’m open to collaborate on projects that seems interesting to me.
 - Reach me at hossainmdfahim66@gmail.com
 
