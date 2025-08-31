@@ -3,20 +3,19 @@ I write code cause I like to.
 ## **My Interests**
 
 - Data Science
-- Machine Learning
+- Machine Learning / Deep Learning / Reinforcement Learning
 - Game Development
-- Cross-Platform Development
 - Security
 
 ## **Skills**
 
-- Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Scipy
+- Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Scipy, Keras, Tensorflow, Pytorch
 - C++: Almost everything
 - Linux: * *PRO music plays in the distance* *
-- Assembly: Fair amount (aarch64)
+- Assembly: Fair (aarch64)
 - Java: Basics
-- R: Fair amount
-- Bash: Fair amount
+- R: Fair
+- Bash: Fair
 
 ## **What I Like to Do**
 
@@ -26,4 +25,3 @@ In a beautiful world where I have nothing to do, I really would like to:
 - Spend hours building and testing shitty games that no one would play.
 - Scratch my long lasting itch of writing a compiler from scratch.
 - Rice my desktop environment.
-- Perfect my linux.
