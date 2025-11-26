@@ -24,4 +24,5 @@ In a beautiful world where I have nothing to do, I really would like to:
 - Spend hours writing and inspecting tons of raw assembly just for fun.
 - Spend hours building and testing shitty games that no one would play.
 - Scratch my long lasting itch of writing a compiler from scratch.
+- Work on game engine.
 - Rice my desktop environment.
