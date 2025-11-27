@@ -11,7 +11,7 @@ I write code cause I like to.
 
 - Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Scipy, Keras, Tensorflow, Pytorch
 - C++: Almost everything
-- Linux: * *PRO music plays in the distance* *
+- Linux: * I use Arch btw, beautiful life in Hyprland *
 - Assembly: Fair (aarch64)
 - Java: Basics
 - R: Fair
@@ -24,5 +24,4 @@ In a beautiful world where I have nothing to do, I really would like to:
 - Spend hours writing and inspecting tons of raw assembly just for fun.
 - Spend hours building and testing shitty games that no one would play.
 - Scratch my long lasting itch of writing a compiler from scratch.
-- Work on game engine.
 - Rice my desktop environment.
