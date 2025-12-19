@@ -11,7 +11,7 @@ I write code cause I like to.
 
 - Python: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Scipy, Keras, Tensorflow, Pytorch
 - C++: Almost everything
-- Linux: I use **Arch** btw, beautiful life in **Hyprland**
+- Linux: **Hyprland** is a beautiful city located in **Arch**
 - Assembly: Fair (aarch64)
 - Java: Basics
 - R: Fair
