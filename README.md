@@ -1,4 +1,4 @@
-I write code cause I like to.
+I write code cause I love to.
 
 ## **My Interests**
 
