@@ -25,6 +25,3 @@ In a beautiful world where I have nothing to do, I really would like to:
 - Spend hours building and testing shitty games that no one would play.
 - Scratch my long lasting itch of writing a compiler from scratch.
 - Rice my desktop environment.
-
-## 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MetalInMyVeins)](https://git.io/streak-stats)
