@@ -5,6 +5,8 @@ I write code cause I love to.
 - Data Science
 - Machine Learning / Deep Learning / Reinforcement Learning
 - Game Development
+- Embedded
+- Networking
 - Security
 
 ## **Skills**
