@@ -20,7 +20,7 @@ I write code cause I love to.
 - Assembly: Fair (aarch64)
 - Java: Basics
 - R: Fair
-- Bash: Fair
+- Bash/Fish: Proficient
 
 ## **What I Like to Do**
 
