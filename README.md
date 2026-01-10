@@ -4,7 +4,7 @@ I write code cause I love to.
 
 - Data Science
 - Machine Learning / Deep Learning / Reinforcement Learning
-- Game Engine Infrastructure
+- Game Engine
 - Embedded
 - Networking
 - Security
