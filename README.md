@@ -4,10 +4,11 @@ I write code cause I love to.
 
 - Data Science
 - Machine Learning / Deep Learning / Reinforcement Learning
+- Compilers
+- Low-level security
 - Game Engine
-- Embedded
 - Networking
-- Security
+- Embedded
 
 ## **Skills**
 
