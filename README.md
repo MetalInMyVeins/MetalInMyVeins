@@ -1,9 +1,12 @@
-I write code cause I love to.
+I write code cause I _love_ to. I'd do anything where I'd _actually_ have to use my brain.
+
+My two cents on AI? DO NOT use AI....when you're learning. Writing by hand creates a significantly better mental model than just reading someone else's code. If you do not have deadlines, do not use AI. None of my repositories contain any AI generated code. Everything is written by hand, by me, from scratch. Cause you know what? I'm learning.
 
 ## **My Interests**
 
-- Data Science
+- Systems Programming
 - Machine Learning / Deep Learning / Reinforcement Learning
+- Data Science
 - Compilers
 - Low-level security
 - Game Engine
