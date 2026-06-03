@@ -44,6 +44,8 @@ In a beautiful world where I have nothing to do, I really would like to:
 - Study human brain.
 - Rice my desktop environment.
 
+I have a degree in Genetic Engineering and Biotechnology from **Shahjalal University of Science and Technology**.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MetalInMyVeins&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MetalInMyVeins&theme=dark&hide_border=false)<br/>
@@ -55,5 +57,4 @@ In a beautiful world where I have nothing to do, I really would like to:
 ---
 [![](https://visitcount.itsvg.in/api?id=MetalInMyVeins&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I have a degree in Genetic Engineering and Biotechnology from **Shahjalal University of Science and Technology**.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
