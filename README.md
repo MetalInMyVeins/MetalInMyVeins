@@ -1,16 +1,24 @@
 I write code cause I **love** to. I'd do anything where I'd **actually** have to use my brain.
 
+I have 5 brains. Each of them likes to think about specific *blehs*.
+
+- **Brain 1** enjoys pixels and games.
+- **Brain 2** enjoys low-level systems.
+- **Brain 3** enjoys how human brain works.
+- **Brain 4** enjoys trying to think of a way to copy human brain internals in artificial intelligence.
+- **Brain 5** enjoys deep space.
+
 My two cents on AI? **DO NOT** use AI....when you're learning. Writing by hand creates a significantly better mental model than just reading someone else's code. If you do not have deadlines, do not use AI. None of my repositories contain any AI generated code. Everything is written by hand, by me, from scratch. Cause you know what? I'm learning.
 
 ## **My Interests**
 
 - Systems Programming
-- Machine Learning / Deep Learning / Reinforcement Learning
-- Data Science
+- Artificial Intelligence
 - Compilers
-- Low-level security
 - Game Engine
+- Low-level security
 - Networking
+- Data Science
 - Embedded
 
 ## **Skills**
@@ -46,5 +54,5 @@ In a beautiful world where I have nothing to do, I really would like to:
 ---
 [![](https://visitcount.itsvg.in/api?id=MetalInMyVeins&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I have a degree in Genetic Engineering and Biotechnology from Shahjalal University of Science and Technology.
+I have a degree in Genetic Engineering and Biotechnology from **Shahjalal University of Science and Technology**.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
