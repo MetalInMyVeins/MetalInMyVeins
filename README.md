@@ -1,4 +1,4 @@
-I write code cause I **love** to. I'd do anything where I'd **actually** have to use my brain and would get dopamine shots as reward.
+I write code cause I **love** to. I'd do anything where I'd **actually** have to use my brain given that I get dopamine shots as reward.
 
 I have 5 brains. Each of them has their specific *blehs*.
 
