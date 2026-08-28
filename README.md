@@ -12,17 +12,18 @@ My two cents on AI? **DO NOT** use AI....when you're *learning*. Writing by hand
 
 ## **My Interests**
 
-- Systems Programming
-- Binary Exploitation
+- Systems and Low-level Programming
+- Reverse Engineering and Binary Analysis
+- Binary Exploitation and Vulnerability Research
 - Malware Analysis and Development
-- Reverse Engineering
+- Operating Systems and Kernel Programming
 - Compiler Engineering
-- Networking
+- Networking and Network Security
 - Cryptography
-- Game Engine
-- Embedded Programming
+- Game Engine Development
+- Embedded Systems and Firmware
 - Artificial Intelligence
-- Data Science
+- Data Science and Bioinformatics
 
 ## **Skills**
 
