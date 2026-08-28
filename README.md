@@ -5,7 +5,7 @@ I have 5 brains. Each of them has their specific *blehs*.
 - **Brain 1** enjoys pixels and games.
 - **Brain 2** enjoys low-level systems.
 - **Brain 3** enjoys how human brain works.
-- **Brain 4** enjoys trying to think of a way to simulate human brain.
+- **Brain 4** enjoys trying to think of a way to hack human brain.
 - **Brain 5** enjoys deep space.
 
 My two cents on AI? **DO NOT** use AI....when you're *learning*. Writing by hand creates a significantly better mental model than just reading someone else's code. If you do not have deadlines, boilerplate code, and/or boring systems to manage, do not use AI. Let your creativity take action by your own hands. None of my repositories contain any AI generated code. Everything is written by hand, by me, from scratch. Cause you know what? I'm learning, always.
