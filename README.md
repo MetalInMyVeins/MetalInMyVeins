@@ -12,7 +12,7 @@ My two cents on AI? **DO NOT** use AI....when you're *learning*. Writing by hand
 
 ## **My Interests**
 
-- Systems and Low-level Programming
+- Systems Programming
 - Reverse Engineering and Binary Analysis
 - Binary Exploitation and Vulnerability Research
 - Malware Analysis and Development
