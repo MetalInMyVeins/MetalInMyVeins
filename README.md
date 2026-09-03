@@ -51,6 +51,6 @@ In a beautiful world where I have nothing to do, I really would like to:
 I have a degree in Genetic Engineering and Biotechnology from **Shahjalal University of Science and Technology**.
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MetalInMyVeins&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MetalInMyVeins&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MetalInMyVeins&layout=compact&theme=dark&hide=html,css,lua)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MetalInMyVeins&theme=dark)](https://git.io/streak-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=MetalInMyVeins)
