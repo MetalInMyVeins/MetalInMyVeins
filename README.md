@@ -51,14 +51,6 @@ In a beautiful world where I have nothing to do, I really would like to:
 I have a degree in Genetic Engineering and Biotechnology from **Shahjalal University of Science and Technology**.
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MetalInMyVeins&show_icons=true&theme=dark"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetalInMyVeins&layout=compact&theme=dark&langs_count=6"
-    height="180"
-  />
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MetalInMyVeins)
