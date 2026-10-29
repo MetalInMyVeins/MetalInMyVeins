@@ -25,7 +25,7 @@ My two cents on AI? **DO NOT** use AI when you're *learning*. Writing by hand cr
 
 ## **Skills**
 
-# 💻 Tech Stack:
+## Tech Stack:
 
 - C: Proficient
 - C++: Proficient
